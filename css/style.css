@@ -1,0 +1,6 @@
+#Filters .filters_wrapper ul li.woocommerce-product-category-page{
+    width: 30%;
+}
+.woocommerce ul.catlist.products.col-4 li.product:nth-child(4n+1) {
+    clear: none;
+}
